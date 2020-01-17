@@ -8,7 +8,7 @@ This project will make predictions of a baseball game outcome based on players a
 ## Victory or Defeat!
 > Our final output will simply indicate whether the home team outcome is a VICTORY or a DEFEAT.
 
-By using data corresponding to Major League Baseball games from the dataset MLB Game Logs 1871-2016 in data.world, so as data gotten from baseball-reference.com by applying web scraping.
+By using data corresponding to Major League Baseball games from the dataset MLB Game Logs 1871-2016 in data.world, so as data taken from baseball-reference.com by applying web scraping.
 
 It was implemented data cleaning and visualization (analysis), and featured data engineering; to get the required dataset to work on and make the predictions.
 
