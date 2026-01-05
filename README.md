@@ -3,7 +3,8 @@ A way to predict Baseball outcomes.
 
 This project will make predictions of a baseball game outcome based on plays, games stats and situations.
 
-![](https://user-images.githubusercontent.com/56207845/72391648-b768a080-36fb-11ea-975a-4192debdde6b.jpg)
+<img width="1024" height="1024" alt="Baseball (Generated 01-05-2026)" src="https://github.com/user-attachments/assets/656a388d-039c-4645-b8be-ff0d7c323def" />
+
 
 ## Victory or Defeat!
 > Our final output will simply indicate whether the home team outcome is a VICTORY or a DEFEAT.
