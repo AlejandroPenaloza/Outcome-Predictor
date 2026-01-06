@@ -3,7 +3,11 @@ A way to predict Baseball outcomes.
 
 This project will make predictions of a baseball game outcome based on plays, games stats and situations.
 
-<img width="1024" height="1024" alt="Baseball (Generated 01-05-2026)" src="https://github.com/user-attachments/assets/656a388d-039c-4645-b8be-ff0d7c323def" />
+<img 
+  width="1024" height="686" alt="Baseball (Generated 01-05-2026) - Edition 2" 
+  src="https://github.com/user-attachments/assets/4dc8cf92-6ffa-4e35-bab0-8c0f931158a2" 
+  />
+
 
 
 ## Victory or Defeat!
